@@ -1,7 +1,3 @@
-# iawebsite
-This is a example of html, css and javascript website about ia
-
-
 # Introduction
 This website was created using a combination of HTML, CSS, JavaScript and AI. The purpose of this website is to provide information and interactivity to the users.
 
